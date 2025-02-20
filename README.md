@@ -1,9 +1,13 @@
-<h1 align='center'>Calculadora Simples</h1>
+<h1 align='center'>Sorteio de Amigo Secreto</h1>
 
  ## :pencil: Sobre
  <div>
-  <p> Projeto pessoal de um jogo de amigo secreto, como um desafio proposto pelo curso da ORACLE.</p>
-<!--   <img src="https://github.com/user-attachments/assets/227c7720-223c-4722-bcc3-0c72447aeba9" alt="Imagem do projeto" width="300"> -->
+  <p> Projeto pessoal para sorteio de amigo secreto, feito como proposta de desafio pelo curso da ORACLE.</p>
+  <img src="https://github.com/user-attachments/assets/5483023d-cef5-4515-b7e2-7d6f7c87672e" alt="Imagem do projeto" width="600">
+  <p> Digitando o nome de um participante do Amigo Secreto e clicando no botão "Adicionar", o nome aparecerá em uma lista logo abaixo da área de digitação, como na imagem abaixo: </p>
+  <img src="https://github.com/user-attachments/assets/a0daab28-9799-4c36-b7c2-85dad02975e7" alt="Imagem exemplo da adição de nomes" width="600">
+  <p>Após adicionar todos os nomes desejados, ao clicar em "Sortear amigo", um dos nomes adicionados será sorteado e aparecerá na cor verde logo abaixo da lista de nomes.</p>
+  <img src="https://github.com/user-attachments/assets/58839abf-e3a6-4746-b7b9-4550bf835b3e" alt="Imagem exemplo da funcionalidade de sorteio" width="600">
  </div>
 
  ## :rocket: Tecnologias
